@@ -4,7 +4,7 @@
 #
 Name     : R-tclust
 Version  : 1.4.1
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/tclust_1.4-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/tclust_1.4-1.tar.gz
 Summary  : Robust Trimmed Clustering
