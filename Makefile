@@ -1,5 +1,5 @@
 PKG_NAME := R-tclust
-URL = https://cran.r-project.org/src/contrib/tclust_2.0-4.tar.gz
+URL = https://ftp.osuosl.org/pub/cran/src/contrib/tclust_2.0-5.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
